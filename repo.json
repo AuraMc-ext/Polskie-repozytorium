@@ -1,0 +1,9 @@
+
+{
+    "name": "Polish repo",
+    "description": "All polish providers.",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/AuraMc-ext/Polskie-repozytorium/builds/plugins.json"
+    ]
+}

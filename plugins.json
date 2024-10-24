@@ -1,0 +1,59 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=cda-hd.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AuraMc-ext/Polskie-repozytorium",
+        "fileSize": 12453,
+        "status": 1,
+        "language": "pl",
+        "authors": [
+            "AuraMc"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "CdaProvider",
+        "url": "https://raw.githubusercontent.com/AuraMc-ext/Polskie-repozytorium/builds/CdaProvider.cs3",
+        "name": "CdaProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ekino-tv.pl&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AuraMc-ext/Polskie-repozytorium",
+        "fileSize": 9476,
+        "status": 1,
+        "language": "pl",
+        "authors": [
+            "Auramc"
+        ],
+        "tvTypes": [
+            "Movies",
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "EkinoProvider",
+        "url": "https://raw.githubusercontent.com/AuraMc-ext/Polskie-repozytorium/builds/EkinoProvider.cs3",
+        "name": "EkinoProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=zaluknij.xyz&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AuraMc-ext/Polskie-repozytorium",
+        "fileSize": 11972,
+        "status": 1,
+        "language": "pl",
+        "authors": [
+            "Auramc"
+        ],
+        "tvTypes": [
+            "Movies",
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "ZaluknijProvider",
+        "url": "https://raw.githubusercontent.com/AuraMc-ext/Polskie-repozytorium/builds/ZaluknijProvider.cs3",
+        "name": "ZaluknijProvider"
+    }
+]
